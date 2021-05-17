@@ -8,6 +8,8 @@ This app helps you to know weather status.
  - Location Pakage : Location ^3.0.2 
 
 
+![Alt text](/screenshots/mockup_weather_app.jpg?raw=true)
+
 # About me
 Expert Mobile app development and have made mobile apps for IOS and Android platform. Use Cross Platform Application (flutter) .
 If you have any Mobile Application Idea in your mind.
